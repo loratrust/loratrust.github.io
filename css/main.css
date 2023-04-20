@@ -1971,7 +1971,6 @@ html[data-useragent*='MSIE 10.0'] .contact-scrolldown,
 }
 
 .about-how-content {
-  position: relative;
   width: 100%;
   max-width: 1000px;
   min-height: 300px;
